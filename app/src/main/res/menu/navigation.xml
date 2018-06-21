@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_anuncios"
+        android:icon="@drawable/ic_olx"
+        android:title="@string/title_anuncios" />
+
+    <item
+        android:id="@+id/navigation_chats"
+        android:icon="@drawable/ic_chat_bubble_outline_black_48dp"
+        android:title="@string/title_chats" />
+
+    <item
+        android:id="@+id/navigation_inserirAnuncio"
+        android:icon="@drawable/ic_edit_black_48dp"
+        android:title="@string/title_inserirAnuncio" />
+
+    <item
+        android:id="@+id/navigation_minhaConta"
+        android:icon="@drawable/ic_person_black_48dp"
+        android:title="@string/title_minhaConta"
+        />
+
+    <item
+        android:id="@+id/navigation_mais"
+        android:icon="@drawable/ic_more_horiz_black_48dp"
+        android:title="@string/title_mais"
+        />
+
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listaProdutos">
+        <item>@drawable/bike</item>
+        <item>@drawable/casa</item>
+        <item>@drawable/gato</item>
+        <item>@drawable/ps4</item>
+        <item>@drawable/roadster</item>
+        <item>@drawable/xonejogos</item>
+    </string-array>
+</resources>

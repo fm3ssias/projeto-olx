@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Projeto OLX</string>
+
+    <!-- Main Activity -->
+    <string name="descricao_Imagem">Imagem do Produto</string>
+    <string name="titulo_Produto">Título do Produto</string>
+    <string name="cifrao_Produto">R$</string>
+    <string name="preco_Produto">0,00</string>
+    <string name="localDataHora_Produto">Brasília - 06 de Julho 22:25</string>
+
+    <!-- Descricao Activity -->
+    <string name="titulo_categoria">Categoria</string>
+    <string name="titulo_tipoAnuncio">Tipo do Anúncio</string>
+    <string name="titulo_novoUsado">Novo/Usado</string>
+    <string name="titulo_genero">Gênero</string>
+    <string name="link_denunciar">Denunciar</string>
+    <string name="titulo_btnTelefone">Ver Telefone</string>
+    <string name="titulo_btnChat">Chat</string>
+    <string name="titulo_descricao">Descrição do produto</string>
+    <string name="separador">___________________________________________________________</string>
+
+    <!-- Navigation Bottom Bar -->
+    <string name="title_anuncios">Anúncios</string>
+    <string name="title_chats">Chats</string>
+    <string name="title_inserirAnuncio">Inserir Anuncio</string>
+    <string name="title_minhaConta">Minha Conta</string>
+    <string name="title_mais">Mais</string>
+</resources>
